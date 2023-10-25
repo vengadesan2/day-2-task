@@ -1,0 +1,10 @@
+write a blog on the difference b/w document and window object
+*document*
+=> the document object represent  a wep paga that is load in the browser
+=> by assesing the document object
+=> we have assesing the element in the html page with help of document object.
+=>   we can add dynamic contant to our web page
+* window object*
+=> the window object is the top most object of the  dom hieraarchy 
+=> it represent a browser window (or) frame that display the contant  of the weeb page
+=> whenever a window appears on the sreen to display the content of the document the window object
